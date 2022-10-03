@@ -1,0 +1,19 @@
+{
+  "name": "crypto-node",
+  "version": "1.0.0",
+  "description": "crypto implementation in  node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amananurag/crypto-node.git"
+  },
+  "author": "aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amananurag/crypto-node/issues"
+  },
+  "homepage": "https://github.com/amananurag/crypto-node#readme"
+}
